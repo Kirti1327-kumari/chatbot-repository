@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "question": "What is your name?",
+            "answer": "I am a chatbot created to assist you."
+        },
+        {
+            "question": "What do you do?",
+            "answer": "I can answer your questions and provide information."
+        },
+        {
+            "question": "How can I contact support?",
+            "answer": "You can contact support via email at support@example.com."
+        }
+        
+      ]
+
+    
+}
